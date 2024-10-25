@@ -1,0 +1,3 @@
+[submodule "Segundorepo"]
+	path = Segundorepo
+	url = git@github.com:Purplehollow117/Segundorepo.git
